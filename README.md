@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm CNSK2412! 👋</h1>  
+<h1 align="center">Hi there, I'm Srikanth C! 👋</h1>  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=I'm+a+Flutter+Developer;I+love+building+AI+Apps;I+am+exploring+IOT;I+turn+ideas+into+apps!+🚀;Tech+Innovator" />
 </p>
