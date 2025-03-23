@@ -158,8 +158,8 @@
 </p>  
 
 <p align="center">
-  <a href="https://yourblogpage.com" target="_blank">
-    <img src="https://cnskwriter.blogspot.com" height="40" alt="Blog Page" />
+  <a href="https://cnskwriter.blogspot.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="40" alt="Blog Page"/>
   </a>  
  
 </p>
