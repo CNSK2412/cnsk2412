@@ -15,7 +15,7 @@
 - 💻 **Hobbies:** Coding, Mobile Game Development, Exploring AI, Blogging Tech Articles  
 - 🏆 **Achievements:**  
   - Built multiple AI-driven apps in Flutter  
-  - Integrated Bluetooth & NFC in real-world applications  
+  - Integrated IOT in real-world applications  
   - Developed a cost-effective **AirTag alternative** using Flutter & Firebase  
 - 🎮 **Gaming Enthusiast:** Loves developing and playing mobile games!  
 - 🚀 **Why I Code:** I believe technology has the power to solve real-world problems, and I'm passionate about creating apps that make life easier and more fun!  
@@ -107,60 +107,33 @@
     <th>Project</th>
     <th>Description</th>
     <th>Tech Stack</th>
-  </tr>
-  <tr>
-    <td><b>🎮 Naana Neeya</b></td>
-    <td>A competitive tapping game with real-time video & animations</td>
-    <td>Flutter, Firebase, Video Player</td>
-  </tr>
-  <tr>
-    <td><b>🎒 Tour Plan Guider</b></td>
-    <td>AI-based trip planner for travelers</td>
-    <td>Flutter, OpenAI API</td>
-  </tr>
-  <tr>
-    <td><b>🔔 Medication Reminder App</b></td>
-    <td>Offline-friendly app with notifications & voice alerts</td>
-    <td>Flutter, Local Notifications</td>
-  </tr>
-  <tr>
-    <td><b>📡 AirTag Alternative</b></td>
-    <td>Cost-effective tracking system using Flutter & Firebase</td>
-    <td>Flutter, Firebase, Bluetooth</td>
-  </tr>
-</table>  
-</p>  
-
----
-
-<h2 align="center">🌟 Featured Projects</h2>  
-<p align="center">  
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
     <th>Link</th>
   </tr>
   <tr>
     <td><b>🎮 Naana Neeya</b></td>
     <td>A competitive tapping game with real-time video & animations</td>
-    <td><a href="https://github.com/CNSK2412/Naana-Neeya">View on GitHub</a></td>
+    <td>Flutter, Firebase, Video Player</td>
+    <td><a href="https://play.google.com/store/apps/details?id=com.yaash.naana_neeya">Naana Neeya</a></td>
   </tr>
   <tr>
     <td><b>🎒 Tour Plan Guider</b></td>
     <td>AI-based trip planner for travelers</td>
-    <td><a href="https://github.com/CNSK2412/Tour-Plan-Guider">View on GitHub</a></td>
+    <td>Flutter, OpenAI API</td>
+    <td><a>Coming Soon</a></td>
+  </tr>
+  <tr>
+    <td><b>🔔 Medication Reminder App</b></td>
+    <td>Offline-friendly app with notifications & voice alerts</td>
+    <td>Flutter, Local Notifications</td>
+    <td><a>Coming Soon</a></td>
+  </tr>
+  <tr>
+    <td><b>📡 AirTag Alternative</b></td>
+    <td>Cost-effective tracking system using Flutter & Firebase</td>
+    <td>Flutter, Firebase, Bluetooth</td>
+    <td><a>Coming Soon</a></td>
   </tr>
 </table>  
-</p>  
-
----
-
-<h2 align="center">📝 Latest Blog Posts</h2>  
-<p align="center">  
-- [Blockchain Technology]([(https://cnskwriter.blogspot.com/2024/06/blockchain-management.html]))  
-- [AI-Artificial Intelligence]([(https://cnskwriter.blogspot.com/2024/06/artificial-intelligence.html]))  
-- [ISRO-Chandrayaan 3]([(https://cnskwriter.blogspot.com/2023/08/isro-chandrayaan-3.html]))
 </p>  
 
 ---
@@ -173,20 +146,24 @@
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>  
-<p align="center">  
-  <a href="https://www.linkedin.com/in/yourprofile">  
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
   </a>  
-  <a href="https://instagram.com/yourprofile">  
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />  
-  </a>  
-  <a href="https://yourblogpage.com">  
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white" alt="Blog Page" />  
-  </a>  
-  <a href="https://play.google.com/store/apps/details?id=com.yourapp.naananeeya">  
-    <img src="https://img.shields.io/badge/Naana_Neeya_Game-4285F4?style=flat&logo=google-play&logoColor=white" alt="Naana Neeya Game" />  
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
   </a>  
 </p>  
+
+<p align="center">
+  <a href="https://yourblogpage.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="40" alt="Blog Page" />
+  </a>  
+ 
+</p>
+  
 
 ---
 
