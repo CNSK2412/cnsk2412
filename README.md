@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, I'm CNSK2412! 👋</h1>  
-<h3 align="center">🚀 Passionate Flutter Developer | AI Enthusiast | Tech Explorer</h3>  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=I'm+a+Flutter+Developer;I+love+building+AI+Apps;I+am+exploring+IOT;I+turn+ideas+into+apps!+🚀;Tech+Innovator" />
+</p>
+
+<p align="center">⚡ "Turning caffeine into code, one Flutter app at a time!" ⚡</p>
 
 ---
 
@@ -14,24 +18,70 @@
   - Integrated Bluetooth & NFC in real-world applications  
   - Developed a cost-effective **AirTag alternative** using Flutter & Firebase  
 - 🎮 **Gaming Enthusiast:** Loves developing and playing mobile games!  
+- 🚀 **Why I Code:** I believe technology has the power to solve real-world problems, and I'm passionate about creating apps that make life easier and more fun!  
+- 🌟 **Fun Fact:** I once built a Flutter app in 48 hours during a hackathon!  
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>  
-<p align="center">  
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />  
-  <img src="https://img.shields.io/badge/AI/ML-ff6f00?style=flat&logo=pytorch&logoColor=white" />  
-  <img src="https://img.shields.io/badge/NFC-008000?style=flat&logo=nfc&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat&logo=bluetooth&logoColor=white" />  
+<h2 align="center">🚀 My Tech Stack</h2>  
+
+<p align="center">
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40"/>
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="40"/>
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="40"/>
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="40"/>
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="40"/>
+  </a>  
+</p>  
+
+---
+
+<h2 align="center">🔧 Tools & Frameworks I Love</h2>  
+
+<p align="center">
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40"/>
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="40"/>
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40"/>
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40"/>
+  </a>  
 </p>  
 
 ---
 
 <h2 align="center">🏆 GitHub Trophies</h2>  
 <p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=CNSK2412&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=CNSK2412&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=4" />  
 </p>  
 
 ---
@@ -78,46 +128,46 @@
     <td>Cost-effective tracking system using Flutter & Firebase</td>
     <td>Flutter, Firebase, Bluetooth</td>
   </tr>
+</table>  
+</p>  
+
+---
+
+<h2 align="center">🌟 Featured Projects</h2>  
+<p align="center">  
+<table>
   <tr>
-    <td><b>🔄 NFC Reader/Writer</b></td>
-    <td>Secure NFC-based mobile solution</td>
-    <td>Flutter, NFC Plugin</td>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><b>🎮 Naana Neeya</b></td>
+    <td>A competitive tapping game with real-time video & animations</td>
+    <td><a href="https://github.com/CNSK2412/Naana-Neeya">View on GitHub</a></td>
+  </tr>
+  <tr>
+    <td><b>🎒 Tour Plan Guider</b></td>
+    <td>AI-based trip planner for travelers</td>
+    <td><a href="https://github.com/CNSK2412/Tour-Plan-Guider">View on GitHub</a></td>
   </tr>
 </table>  
 </p>  
 
 ---
 
-<h2 align="center">✨ Features & Upcoming Projects</h2>  
-
+<h2 align="center">📝 Latest Blog Posts</h2>  
 <p align="center">  
-<table>
-  <tr>
-    <th>Feature / Project</th>
-    <th>Description</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td><b>🤖 AI ChatBot</b></td>
-    <td>Developing an AI-powered ChatBot in Flutter</td>
-    <td>🚧 In Progress</td>
-  </tr>
-  <tr>
-    <td><b>📡 NFC Payments</b></td>
-    <td>Researching ways to optimize NFC for seamless transactions</td>
-    <td>📝 Research Phase</td>
-  </tr>
-  <tr>
-    <td><b>🔄 Multiplayer Mode</b></td>
-    <td>Enhancing Naana Neeya with Multiplayer Bluetooth Mode</td>
-    <td>🚀 Coming Soon</td>
-  </tr>
-  <tr>
-    <td><b>🎭 Gesture-Controlled App</b></td>
-    <td>Developing a mobile app with hand gesture controls</td>
-    <td>⏳ Planning Stage</td>
-  </tr>
-</table>  
+- [Blockchain Technology]([(https://cnskwriter.blogspot.com/2024/06/blockchain-management.html]))  
+- [AI-Artificial Intelligence]([(https://cnskwriter.blogspot.com/2024/06/artificial-intelligence.html]))  
+- [ISRO-Chandrayaan 3]([(https://cnskwriter.blogspot.com/2023/08/isro-chandrayaan-3.html]))
+</p>  
+
+---
+
+<h2 align="center">💬 Quote of the Day</h2>  
+<p align="center">  
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark" alt="Quote of the Day" />  
 </p>  
 
 ---
