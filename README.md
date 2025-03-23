@@ -148,18 +148,18 @@
 <h2 align="center">🌐 Connect with Me</h2>  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/srikanth-cnsk?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
   </a>  
   &nbsp;&nbsp;
-  <a href="https://instagram.com/yourprofile" target="_blank">
+  <a href="https://www.instagram.com/cn_sri_005?igsh=MTA5cG1pcmx2Ymgzag==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
   </a>  
 </p>  
 
 <p align="center">
   <a href="https://yourblogpage.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="40" alt="Blog Page" />
+    <img src="https://cnskwriter.blogspot.com" height="40" alt="Blog Page" />
   </a>  
  
 </p>
