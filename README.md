@@ -36,7 +36,7 @@
 <td width="32%" align="center" valign="middle">
   <!-- Profile Photo with fallback -->
   <a href="https://cnsri.pages.dev">
-    <img src="https://cnsri.pages.dev/assets/sri_pic.webp" onerror="this.onerror=null; this.src='https://github.com/CNSK2412.png';" width="210" style="border-radius: 50%; border: 3px solid #13D1FE; box-shadow: 0 8px 24px rgba(19, 209, 254, 0.25);" alt="Srikanth C." />
+    <img src="https://cnsri.pages.dev/assets/sri_pic_2_mobile.webp" onerror="this.onerror=null; this.src='https://github.com/CNSK2412.png';" width="210" style="border-radius: 50%; border: 3px solid #13D1FE; box-shadow: 0 8px 24px rgba(19, 209, 254, 0.25);" alt="Srikanth C." />
   </a>
   <br/><br/>
   <b>Srikanth C.</b><br/>
