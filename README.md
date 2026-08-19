@@ -1,212 +1,343 @@
-<h1 align="center">✨ Hi there, I'm Srikanth C! ✨</h1>  
-
+<!-- Header Banner with Dynamic Waving SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=🔥+Flutter+Developer+%7C+AI+Enthusiast+%7C+IOT+Explorer;🚀+Building+intelligent+apps+that+make+a+difference;🎮+Creating+addictive+mobile+games;📱+Turning+ideas+into+reality%2C+one+app+at+a+time!;💡+Tech+Innovator+%7C+Problem+Solver;⚡+Code.+Create.+Conquer.+⚡" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=022631&height=220&section=header&text=SRIKANTH%20C.&fontSize=44&fontColor=13D1FE&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Flutter%20Engineer%20%E2%80%A2%20AI%20%2F%20ML%20Specialist&descFontSize=18&descColor=BBEDFF&descAlignY=60" width="100%" alt="Srikanth C. Header" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CNSK2412&style=for-the-badge&color=ff69b4" alt="Profile Views" />
-</p>
+<div align="center">
 
-<p align="center">⚡ <b>"Turning caffeine into code, building apps that spark joy!"</b> ⚡</p>
+  <!-- Animated Typing Subheader -->
+  <a href="https://cnsri.pages.dev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=1000&color=13D1FE&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Architecting+Intelligent+Web+%26+Mobile+Systems;%F0%9F%93%B1+Flutter+%7C+React+%7C+TypeScript+%7C+Python;%F0%9F%A7%A0+Explainable+AI+(XAI)+%7C+Deep+Learning+%7C+Vision;%E2%9A%A1+Turning+Ideas+Into+High-Performance+Experiences" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Quick Action & Verification Badges -->
+  <p align="center">
+    <a href="https://cnsri.pages.dev"><img src="https://img.shields.io/badge/Portfolio-cnsri.pages.dev-0884A1?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/srikanth-cnsk/"><img src="https://img.shields.io/badge/LinkedIn-Srikanth_C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:iamcnsri@gmail.com"><img src="https://img.shields.io/badge/Email-iamcnsri@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://play.google.com/store/apps/details?id=com.yaash.naana_neeya"><img src="https://img.shields.io/badge/Google_Play-Developer-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a>
+    <a href="https://github.com/CNSK2412"><img src="https://img.shields.io/badge/GitHub-CNSK2412-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=CNSK2412&style=flat-square&color=13d1fe&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_PROJECTS-success?style=flat-square" alt="Status"/>
+    <img src="https://img.shields.io/badge/DOMAIN-FULL--STACK_%2B_AI-0884A1?style=flat-square" alt="Focus"/>
+  </p>
+
+</div>
 
 ---
 
-<h2 align="center">🌟 About Me</h2>  
-
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="60%">
-
-### 👨‍💻 Who Am I?
-
-- 🔭 **Currently Building:** **Naana Neeya** – An electrifying 2-player tap battle game! ⚔️
-- 🎯 **Mission:** Creating **intelligent, interactive & impactful** mobile experiences
-- 🌱 **Learning:** AI-powered Flutter apps, NFC tech, and IoT solutions
-- 🎮 **Gaming Enthusiast:** Love developing AND playing mobile games!
-- 🚀 **Why I Code:** Tech solves real problems – I build apps that make life easier AND more fun!
-- ✨ **Fun Fact:** Built a complete Flutter app in 48 hours during a hackathon! ⏰
-
+<td width="32%" align="center" valign="middle">
+  <!-- Profile Photo with fallback -->
+  <a href="https://cnsri.pages.dev">
+    <img src="https://cnsri.pages.dev/assets/sri_pic.webp" onerror="this.onerror=null; this.src='https://github.com/CNSK2412.png';" width="210" style="border-radius: 50%; border: 3px solid #13D1FE; box-shadow: 0 8px 24px rgba(19, 209, 254, 0.25);" alt="Srikanth C." />
+  </a>
+  <br/><br/>
+  <b>Srikanth C.</b><br/>
+  <sub><i>Full Stack & AI Engineer</i></sub><br/>
+  <sub>📍 India • 🌐 <a href="https://cnsri.pages.dev">cnsri.pages.dev</a></sub>
 </td>
-<td width="40%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif" />
+<td width="68%" valign="top">
+
+### 👨‍💻 Executive Summary
+
+I am a **Full Stack & AI/ML Software Developer** focused on architecting resilient, production-ready digital products. My work spans high-performance modern web platforms, native cross-platform mobile apps in Flutter, and interpretable machine learning pipelines with Explainable AI.
+
+- 🌐 **Modern Web Systems:** Building modular, conversion-focused applications with **React, TypeScript, Tailwind CSS, and WebMCP AI agent integrations**.
+- 📱 **Mobile Development:** Engineering production **Flutter & Dart** apps with offline persistence (Hive), real-time sync, and fluid 60 FPS interfaces.
+- 🧠 **Applied AI & Machine Learning:** Developing predictive models with **Python, TensorFlow, Scikit-Learn, and XGBoost**, specializing in **Explainable AI (XAI / SHAP)** and medical/cybersecurity analytics.
+- 🛡️ **Cybersecurity Intelligence:** Implementing automated static APK heuristics and malicious URL pattern detection systems.
+- ⚡ **Engineering Philosophy:** *"I don't just write code. I engineer deeply integrated, high-performance systems and pixel-perfect interfaces that solve real-world problems."*
+
 </td>
 </tr>
 </table>
 
 ---
 
-<h2 align="center">🛠️ My Tech Arsenal</h2>
+## 🛠️ Technical Arsenal & Core Stack
+
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | `Python` `Dart` `TypeScript` `JavaScript` `HTML5` `CSS3` `SQL` |
+| **Frontend & Web** | `React` `Vite` `Tailwind CSS` `WebMCP AI Agents` `Responsive UI/UX` `SEO` |
+| **Mobile Engineering** | `Flutter` `Dart` `Hive DB` `Local Notifications` `Android Studio` `REST APIs` |
+| **AI / Machine Learning** | `TensorFlow` `Keras` `Scikit-Learn` `XGBoost` `SHAP (Explainable AI)` `OpenCV` `Gemma AI` |
+| **Data & Scientific** | `Pandas` `NumPy` `Matplotlib` `Seaborn` `Data Pipelines` |
+| **Backend & Cloud & DB** | `Firebase (Realtime DB, Firestore, Auth)` `Cloudflare Pages` `RESTful APIs` `SQLite / Hive` |
+| **Cybersecurity** | `Static APK Analysis` `Malicious URL Detection` `Explainable Threat Attribution` |
+| **Tools & Workflow** | `Git` `GitHub` `VS Code` `Android Studio` `Figma` `Postman` `Vercel` |
+
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,tensorflow,arduino,figma,git,github,vscode,androidstudio" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/SHAP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Gemma_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,tailwind,python,tensorflow,firebase,cloudflare,git,github,vscode,androidstudio,figma,postman" alt="Tech Skills Icons" />
 </p>
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>  
+## 🚀 Flagship Projects & Implementations
 
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=CNSK2412&theme=radical&no-frame=false&no-bg=false&margin-w=15&column=4" />  
-</p>  
+A curated showcase of production applications, AI systems, and platforms I have architected and deployed:
+
+<table>
+  <thead>
+    <tr>
+      <th width="24%">Project & Category</th>
+      <th width="46%">System Architecture & Problem Solved</th>
+      <th width="18%">Tech Stack</th>
+      <th width="12%">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Project 1 -->
+    <tr>
+      <td>
+        <b>🌍 Beyond Borders by J & J</b><br/>
+        <sub><i>Bespoke Travel Platform & WebMCP AI</i></sub><br/>
+        <img src="https://img.shields.io/badge/Featured-0884A1?style=flat-square" alt="Featured"/>
+      </td>
+      <td>
+        A high-performance luxury travel and tourism platform designed for South India. Includes bespoke holiday curation, dynamic journey builders, and <b>declarative WebMCP AI agent integration</b> for next-gen contextual travel planning.
+        <br/>• <i>Capability:</i> Declarative WebMCP integration, sub-second load times, responsive UI.
+      </td>
+      <td>
+        <code>React</code><br/>
+        <code>TypeScript</code><br/>
+        <code>Tailwind CSS</code><br/>
+        <code>WebMCP</code><br/>
+        <code>Cloudflare</code>
+      </td>
+      <td align="center">
+        <a href="https://beyondbordersbyjj.pages.dev"><img src="https://img.shields.io/badge/Live_Site-0884A1?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Live Demo"/></a><br/><br/>
+        <a href="https://github.com/CNSK2412"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      </td>
+    </tr>
+    <!-- Project 2 -->
+    <tr>
+      <td>
+        <b>⚔️ Naana Neeya</b><br/>
+        <sub><i>Real-Time Tap Battle Engine</i></sub><br/>
+        <img src="https://img.shields.io/badge/Google_Play-Live-34A853?style=flat-square" alt="Play Store"/>
+      </td>
+      <td>
+        A fast-paced, high-intensity two-player competitive mobile game. Engineered with responsive low-latency state synchronization, dynamic particle shaders (fire, water, confetti), custom audio controls, and an ad-free player experience.
+        <br/>• <i>Capability:</i> 60 FPS real-time sync, local multi-touch arbitration.
+      </td>
+      <td>
+        <code>Flutter</code><br/>
+        <code>Dart</code><br/>
+        <code>Firebase</code><br/>
+        <code>Real-Time DB</code>
+      </td>
+      <td align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.yaash.naana_neeya"><img src="https://img.shields.io/badge/Play_Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a><br/><br/>
+        <a href="https://github.com/CNSK2412"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      </td>
+    </tr>
+    <!-- Project 3 -->
+    <tr>
+      <td>
+        <b>🛡️ Explainable Android Malware Analysis System</b><br/>
+        <sub><i>Cybersecurity & Explainable AI</i></sub>
+      </td>
+      <td>
+        Cybersecurity analysis engine that detects malicious URLs and Android malware through non-execution static APK profiling (permissions, API call chains, manifest heuristics). Integrates <b>Explainable AI (XAI / SHAP & Gemma AI)</b> to give security analysts transparent, interpretable risk rationales.
+        <br/>• <i>Capability:</i> Interpretable feature attributions, zero-execution safety.
+      </td>
+      <td>
+        <code>Python</code><br/>
+        <code>Gemma AI</code><br/>
+        <code>SHAP (XAI)</code><br/>
+        <code>Scikit-Learn</code><br/>
+        <code>Cybersecurity</code>
+      </td>
+      <td align="center">
+        <a href="https://github.com/CNSK2412"><img src="https://img.shields.io/badge/Code-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a><br/><br/>
+        <a href="https://cnsri.pages.dev"><img src="https://img.shields.io/badge/Details-0884A1?style=for-the-badge" alt="Portfolio"/></a>
+      </td>
+    </tr>
+    <!-- Project 4 -->
+    <tr>
+      <td>
+        <b>🧠 Brain Tumor Prediction</b><br/>
+        <sub><i>Deep Learning MRI Segmentation</i></sub>
+      </td>
+      <td>
+        Deep Learning medical image analysis pipeline utilizing Convolutional Neural Networks (CNN) for identifying and segmenting brain tumors from neuroimaging MRI scan slices with high diagnostic confidence.
+        <br/>• <i>Supported Metric:</i> <b>92% Validation Accuracy</b> on benchmark MRI datasets.
+      </td>
+      <td>
+        <code>TensorFlow</code><br/>
+        <code>Keras</code><br/>
+        <code>OpenCV</code><br/>
+        <code>Python</code><br/>
+        <code>CNN Models</code>
+      </td>
+      <td align="center">
+        <a href="https://github.com/CNSK2412"><img src="https://img.shields.io/badge/Code-E91E63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a><br/><br/>
+        <a href="https://cnsri.pages.dev"><img src="https://img.shields.io/badge/Details-0884A1?style=for-the-badge" alt="Portfolio"/></a>
+      </td>
+    </tr>
+    <!-- Project 5 -->
+    <tr>
+      <td>
+        <b>💊 MediCue</b><br/>
+        <sub><i>Offline Medication & Clinical Reminders</i></sub>
+      </td>
+      <td>
+        An offline-first medication reminder and scheduling platform tailored for clinical and post-surgery patient workflows (inspired by ophthalmic post-operative regimens at Aravind Eye Hospital). Supports variable multi-interval dosing, audible alerts, and local persistence.
+        <br/>• <i>Capability:</i> 100% offline reliability with zero cloud dependency.
+      </td>
+      <td>
+        <code>Flutter</code><br/>
+        <code>Dart</code><br/>
+        <code>Hive DB</code><br/>
+        <code>Local Notifications</code>
+      </td>
+      <td align="center">
+        <a href="https://github.com/CNSK2412"><img src="https://img.shields.io/badge/Code-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a><br/><br/>
+        <a href="https://cnsri.pages.dev"><img src="https://img.shields.io/badge/Details-0884A1?style=for-the-badge" alt="Portfolio"/></a>
+      </td>
+    </tr>
+    <!-- Project 6 -->
+    <tr>
+      <td>
+        <b>🚕 Mahalakshmi Cabs</b><br/>
+        <sub><i>Commercial Web Booking Portal</i></sub>
+      </td>
+      <td>
+        Production business web platform engineered for a premier local taxi service in Kodaikanal. Engineered with strict lighthouse performance standards, responsive mobile-first layouts, localized SEO optimization, and Google Business Profile integration.
+        <br/>• <i>Capability:</i> Fast local discovery and instant booking conversions.
+      </td>
+      <td>
+        <code>React / Web</code><br/>
+        <code>SEO Arch</code><br/>
+        <code>Google Business</code><br/>
+        <code>Tailwind CSS</code>
+      </td>
+      <td align="center">
+        <a href="https://mahalakshmicabs.pages.dev"><img src="https://img.shields.io/badge/Live_Site-0884A1?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Live Site"/></a><br/><br/>
+        <a href="https://github.com/CNSK2412"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      </td>
+    </tr>
+    <!-- Project 7 -->
+    <tr>
+      <td>
+        <b>❤️ Cardiovascular Disease Prediction</b><br/>
+        <sub><i>Clinical Parameter Risk Scoring Model</i></sub>
+      </td>
+      <td>
+        Predictive machine learning diagnostic system evaluating cardiovascular risk factors (BP, cholesterol, glucose, biometric markers). Integrates SHAP values so clinicians can understand individual risk contributor weights.
+        <br/>• <i>Supported Metric:</i> <b>89% Predictive Accuracy</b> across clinical evaluations.
+      </td>
+      <td>
+        <code>Python</code><br/>
+        <code>Scikit-Learn</code><br/>
+        <code>XGBoost</code><br/>
+        <code>SHAP</code><br/>
+        <code>Pandas</code>
+      </td>
+      <td align="center">
+        <a href="https://github.com/CNSK2412"><img src="https://img.shields.io/badge/Code-4B8BBE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a><br/><br/>
+        <a href="https://cnsri.pages.dev"><img src="https://img.shields.io/badge/Details-0884A1?style=for-the-badge" alt="Portfolio"/></a>
+      </td>
+    </tr>
+    <!-- Project 8 -->
+    <tr>
+      <td>
+        <b>🧬 Neurocognitive Impairment Model</b><br/>
+        <sub><i>Behavioral Risk Scoring System</i></sub>
+      </td>
+      <td>
+        Intelligent diagnostic machine learning model designed to detect subtle early markers of neurocognitive impairment and cognitive decline using multidimensional assessment data.
+        <br/>• <i>Supported Metric:</i> <b>F1-Score of 0.85</b> on clinical validation cohorts.
+      </td>
+      <td>
+        <code>Python</code><br/>
+        <code>XGBoost</code><br/>
+        <code>NumPy</code><br/>
+        <code>Seaborn</code><br/>
+        <code>Scikit-Learn</code>
+      </td>
+      <td align="center">
+        <a href="https://github.com/CNSK2412"><img src="https://img.shields.io/badge/Code-8E44AD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a><br/><br/>
+        <a href="https://cnsri.pages.dev"><img src="https://img.shields.io/badge/Details-0884A1?style=for-the-badge" alt="Portfolio"/></a>
+      </td>
+    </tr>
+    <!-- Project 9 -->
+    <tr>
+      <td>
+        <b>⛅ Hyper-Local Weather Forecast</b><br/>
+        <sub><i>Predictive Meteorological Client</i></sub>
+      </td>
+      <td>
+        Clean, responsive mobile weather client fetching real-time ambient weather metrics, UV index, humidity, and 5-day predictive forecasts using device geolocation and external meteorological REST APIs.
+        <br/>• <i>Capability:</i> Real-time geolocated polling with fluid forecast animations.
+      </td>
+      <td>
+        <code>Flutter</code><br/>
+        <code>Dart</code><br/>
+        <code>REST API</code><br/>
+        <code>Geolocator</code>
+      </td>
+      <td align="center">
+        <a href="https://github.com/CNSK2412"><img src="https://img.shields.io/badge/Code-0288D1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a><br/><br/>
+        <a href="https://cnsri.pages.dev"><img src="https://img.shields.io/badge/Details-0884A1?style=for-the-badge" alt="Portfolio"/></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>  
+## 📈 GitHub Contribution Activity
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=CNSK2412&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CNSK2412&theme=radical&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" width="48%" />
-</p>
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CNSK2412&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b" width="45%" />
-</p>
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CNSK2412&theme=react-dark&bg_color=022631&color=13D1FE&line=13D1FE&point=BBEDFF&hide_border=true&area=true" width="98%" alt="Srikanth's Contribution Activity Graph" />
+  </p>
+</div>
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 🤝 Let's Connect & Collaborate
 
-<p align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center">🎮 Project</th>
-        <th align="center">📝 Description</th>
-        <th align="center">⚙️ Tech Stack</th>
-        <th align="center">🔗 Link</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center"><b>⚔️ Naana Neeya</b><br><i>Fast Tap Battle</i></td>
-        <td><b>2-Player Local Battle Game!</b><br>Tap faster than your opponent with dynamic effects, immersive sound, and 100% ad-free fun!<br><br>✨ Features: Real-time tap battles, fire/water/confetti effects, adjustable volume, custom pause menu</td>
-        <td align="center">Flutter • Dart • Firebase</td>
-        <td align="center"><a href="https://play.google.com/store/apps/details?id=com.yaash.naana_neeya"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a></td>
-      </tr>
-      <tr>
-        <td align="center"><b>💊 Meadicue</b><br><i>Smart Medication Reminder</i></td>
-        <td><b>Never miss your medicines again!</b><br>Set tablet timings, get instant reminders, manage multiple medications, and stay healthy with timely alerts.<br><br>✅ Offline-friendly • Voice alerts • Easy medication management</td>
-        <td align="center">Flutter • Dart • Local Notifications</td>
-        <td align="center"><a href="https://play.google.com/store/apps/details?id=com.yaash.medicue&pcampaignid=web_share"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a></td>
-      </tr>
-      <tr>
-        <td align="center"><b>❤️ Smart Heart Predictor</b><br><i>XGBoost + SHAP</i></td>
-        <td><b>AI-powered heart disease prediction with Explainable AI.</b><br>Analyzes medical data (age, BP, cholesterol) to predict risk levels. SHAP explanations help doctors understand predictions.<br><br>🏥 Doctor Dashboard • Visual explanations • Fast & accurate</td>
-        <td align="center">Python • XGBoost • SHAP • ML</td>
-        <td align="center"><a href="#"><img src="https://img.shields.io/badge/View_Project-4B8BBE?style=for-the-badge&logo=github&logoColor=white"/></a></td>
-      </tr>
-      <tr>
-        <td align="center"><b>🔐 Android Malware Analyzer</b><br><i>Gemma Static Analysis</i></td>
-        <td><b>Explainable Android Malware Detection using Gemma AI.</b><br>Analyzes APK files without execution – examines permissions, API calls, and code patterns to detect malware. Generates human-readable explanations for each prediction!<br><br>🛡️ Security tool for developers & analysts</td>
-        <td align="center">Python • Machine Learning • Gemma AI</td>
-        <td align="center"><a href="#"><img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white"/></a></td>
-      </tr>
-      <tr>
-  <td align="center"><b>🧠 NeuroCognitive Disease Prediction</b><br><i>AI Healthcare System</i></td>
-  <td><b>Early detection of neurological disorders using AI.</b><br>Predicts risks of neurocognitive diseases using patient symptoms, cognitive assessments, and medical datasets with intelligent ML analysis.<br><br>🧬 Explainable AI • Medical Insights • Risk Analysis Dashboard</td>
-  <td align="center">Python • TensorFlow • XGBoost • SHAP</td>
-  <td align="center"><a href="#"><img src="https://img.shields.io/badge/View_Project-8E44AD?style=for-the-badge&logo=github&logoColor=white"/></a></td>
-</tr>
+I am always interested in discussing software engineering challenges, full-stack web builds, Flutter mobile apps, AI/ML implementations, and high-impact digital ventures.
 
-<tr>
-  <td align="center"><b>🧠 Brain Tumor Prediction</b><br><i>Deep Learning MRI Analysis</i></td>
-  <td><b>AI-powered brain tumor detection system.</b><br>Analyzes MRI scan images using deep learning models to detect possible tumor presence with high accuracy and visual prediction support.<br><br>🏥 Medical Imaging • CNN Models • Fast Prediction</td>
-  <td align="center">Python • TensorFlow • OpenCV • Deep Learning</td>
-  <td align="center"><a href="#"><img src="https://img.shields.io/badge/View_Project-E91E63?style=for-the-badge&logo=github&logoColor=white"/></a></td>
-</tr>
+<div align="center">
 
-<tr>
-  <td align="center"><b>🛡️ Malicious URL Detector</b><br><i>Cybersecurity AI</i></td>
-  <td><b>Upcoming AI-based phishing & malicious URL detection platform.</b><br>Detects dangerous websites, phishing links, and suspicious domains using machine learning and intelligent URL pattern analysis.<br><br>🔐 Cybersecurity • Threat Detection • Real-time URL Analysis</td>
-  <td align="center">Python • Machine Learning • Flask • Cybersecurity</td>
-  <td align="center"><a href="#"><img src="https://img.shields.io/badge/Coming_Soon-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a></td>
-</tr>
-
-<tr>
-  <td align="center"><b>🤖 Strutify AI</b><br><i>AI Document Structuring Platform</i></td>
-  <td><b>Founder of Strutify AI — Smart AI-powered document generation platform.</b><br>Create professional resumes, reports, structured documents, and AI-generated content with customizable templates and intelligent formatting.<br><br>📄 AI Writer • Smart Templates • Professional Documents</td>
-  <td align="center">React • Vite • AI APIs • Tailwind CSS</td>
-  <td align="center"><a href="#"><img src="https://img.shields.io/badge/In_Development-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
-</tr>
-
-<tr>
-  <td align="center"><b>📍 Employee Tracer</b><br><i>Smart Workforce Tracking</i></td>
-  <td><b>Intelligent employee monitoring & attendance system.</b><br>Tracks employee activity, attendance, and live work status with location insights and productivity analytics for organizations.<br><br>📊 Live Tracking • Attendance System • Admin Dashboard</td>
-  <td align="center">Flutter • Firebase • GPS • Real-time Database</td>
-  <td align="center"><a href="#"><img src="https://img.shields.io/badge/In_Development-3DDC84?style=for-the-badge&logo=firebase&logoColor=white"/></a></td>
-</tr>
-    </tbody>
-  </table>
-</p>
-
----
-
-<h2 align="center">📱 Live on Play Store</h2>
-
-<p align="center">
+  <a href="https://cnsri.pages.dev">
+    <img src="https://img.shields.io/badge/Website-cnsri.pages.dev-0884A1?style=for-the-badge&logo=cloudflare&logoColor=white" height="40" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/srikanth-cnsk/">
+    <img src="https://img.shields.io/badge/LinkedIn-Srikanth_C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:iamcnsri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-iamcnsri@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.yaash.naana_neeya">
-    <img src="https://img.shields.io/badge/🎮_Naana_Neeya-Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" height="50"/>
+    <img src="https://img.shields.io/badge/Google_Play-CNSK_Apps-34A853?style=for-the-badge&logo=googleplay&logoColor=white" height="40" alt="Google Play"/>
   </a>
   &nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/💊_Meadicue-Coming_Soon-FF5722?style=for-the-badge&logo=google-play&logoColor=white" height="50"/>
+  <a href="https://github.com/CNSK2412">
+    <img src="https://img.shields.io/badge/GitHub-CNSK2412-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/>
   </a>
-</p>
 
----
+  <br/><br/>
 
-<h2 align="center">💬 Developer Quote of the Day</h2>  
+  <!-- Footer Banner with Dynamic Waving SVG -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=022631&height=120&section=footer&text=Code.%20Engineer.%20Innovate.&fontSize=20&fontColor=13D1FE&fontAlignY=60" width="100%" alt="Footer Banner" />
 
-<p align="center">  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />  
-</p>
-
----
-
-<h2 align="center">🤝 Let's Connect!</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/srikanth-cnsk">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
-  </a>  
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/cn_sri_005">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://cnskwriter.blogspot.com">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
-  </a>
-</p>
-
----
-
-<h2 align="center">🎯 Current Focus</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="coding"/>
-</p>
-
-<p align="center">
-  <b>⚡ Building Naana Neeya – The ultimate 2-player tap battle experience!</b><br>
-  <i>Stay tuned for updates, new features, and exciting gameplay enhancements! 🎮✨</i>
-</p>
-
----
-
-<h2 align="center">✨ "Code. Create. Conquer." ✨</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=400&lines=🌟+Thanks+for+visiting!+🌟;⭐+Star+my+repos+if+you+like+them!;🚀+Let's+build+something+awesome!;💻+Happy+Coding!" />
-</p>
+</div>
